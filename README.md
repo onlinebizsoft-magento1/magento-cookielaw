@@ -13,7 +13,7 @@ Another EU Cookie Law Compliance extension. This extension adds a notice telling
 
 ### Installation
 
-* Install EU Cookie Law Compliance with Magento Connect Manager.
+* Install EU Cookie Law Compliance with Magento Connect Manager. https://connect20.magentocommerce.com/community/Vhaldecode_CookieLaw
 * Recompile and refresh the cache.
 * Logout from your admin panel and then login again to configure the extension.
 
